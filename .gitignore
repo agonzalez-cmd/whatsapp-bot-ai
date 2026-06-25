@@ -1,0 +1,17 @@
+# Entornos virtuales y Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Node
+node_modules/
+# Opcional si prefieres dejar el lock: package-lock.json
+
+# WhatsApp Sessions
+.wwebjs_auth/
+.wwebjs_cache/
+
+# OS
+.DS_Store
+Thumbs.db

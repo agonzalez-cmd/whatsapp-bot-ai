@@ -1,0 +1,5 @@
+Nuestros horarios de atención son de Lunes a Viernes de 9:00 AM a 6:00 PM.
+Ofrecemos servicios de desarrollo de software y consultoría tecnológica.
+El precio de una consultoría básica es de 100 USD por hora.
+Nuestras oficinas están ubicadas en el centro tecnológico de la ciudad.
+Si el usuario pregunta por métodos de pago, aceptamos transferencia bancaria y tarjetas de crédito.
